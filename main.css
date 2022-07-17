@@ -15,7 +15,7 @@ body {
  padding: 20px;
  color: #fff;
  width: 400px;
- height: 300px;
+ height: 350px;
  margin: 30px auto;
  text-align: center;
  border-radius: 5px;
@@ -30,6 +30,7 @@ h2 {
 }
 .btn {
  margin-top: 40px;
+ margin-bottom: 30px;
  padding: 12px 30px;
  border-radius: 5px;
  font-weight: bold;
@@ -41,5 +42,9 @@ h2 {
 }
 .btn:last-child {
  background-color: green;
+ color: #fff;
+}
+.inspiration {
+ font-size: 15px;
  color: #fff;
 }
